@@ -1,0 +1,24 @@
+/usr/local/lib/python3.8/site-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (1.26.4) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+2021-04-16 09:40:15,441 - INFO getForumUpdate.py:73 - Updating for QuocKhang
+2021-04-16 09:40:15,916 - INFO getForumUpdate.py:73 - Updating for T.11.11.11
+2021-04-16 09:40:16,566 - INFO getForumUpdate.py:73 - Updating for kuTom
+2021-04-16 09:40:17,734 - INFO getForumUpdate.py:26 - Update F319 2021-04-16 09-40
+hanhle1991@gmail.com,viettn85@gmail.com,tuans.fit@gmail.com,cuong.nguyen1982@gmail.com
+2021-04-16 09:45:22,605 - INFO getForumUpdate.py:73 - Updating for QuocKhang
+2021-04-16 09:45:23,300 - INFO getForumUpdate.py:73 - Updating for T.11.11.11
+2021-04-16 09:45:23,799 - INFO getForumUpdate.py:73 - Updating for kuTom
+2021-04-16 09:50:25,084 - INFO getForumUpdate.py:73 - Updating for QuocKhang
+2021-04-16 09:50:25,573 - INFO getForumUpdate.py:73 - Updating for T.11.11.11
+2021-04-16 09:50:26,041 - INFO getForumUpdate.py:73 - Updating for kuTom
+2021-04-16 09:55:27,452 - INFO getForumUpdate.py:73 - Updating for QuocKhang
+2021-04-16 09:55:28,982 - INFO getForumUpdate.py:73 - Updating for T.11.11.11
+2021-04-16 09:55:30,533 - INFO getForumUpdate.py:73 - Updating for kuTom
+2021-04-16 10:00:32,063 - INFO getForumUpdate.py:73 - Updating for QuocKhang
+2021-04-16 10:00:32,763 - INFO getForumUpdate.py:73 - Updating for T.11.11.11
+2021-04-16 10:00:33,213 - INFO getForumUpdate.py:73 - Updating for kuTom
+2021-04-16 10:05:34,336 - INFO getForumUpdate.py:73 - Updating for QuocKhang
+2021-04-16 10:05:34,801 - INFO getForumUpdate.py:73 - Updating for T.11.11.11
+2021-04-16 10:05:35,577 - INFO getForumUpdate.py:73 - Updating for kuTom
+1.11
+2021-04-16 10:05:35,577 - INFO getForumUpdate.py:73 - Updating for kuTom
