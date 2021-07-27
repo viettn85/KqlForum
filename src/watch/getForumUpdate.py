@@ -34,7 +34,6 @@ def sendMail(content):
         server.starttls(context=context)
         server.ehlo()  # Can be omitted
         server.login(os.getenv('sender'), os.getenv('password'))
-        print(os.getenv('receiver'))
         server.sendmail(os.getenv('sender'), os.getenv('receiver').split(','), message.as_string())
     except Exception as e:
         logger.error("Error when sending email")
